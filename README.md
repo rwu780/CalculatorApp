@@ -2,4 +2,5 @@
 
 Simple Calculator App
 
-![](images/Screenshot_20221014_185928.png)
+<img src="images/Screenshot_20221014_185928.png" alt="drawing" width="300"/>
+
